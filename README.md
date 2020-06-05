@@ -1,5 +1,5 @@
 # Auto-Scroll-JQuery
-Automatically scroll list items that overflow their container more like a list view
+Automatically scroll list items every 3 seconds that overflow their container more like a list view
 
 ### HTML
 ```sh
