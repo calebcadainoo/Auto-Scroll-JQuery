@@ -20,6 +20,10 @@ Automatically scroll list items every 3 seconds that overflow their container mo
 
 ### CSS
 ```sh
+.trans{
+    transition: 0.3s all ease-in;
+    -webkit-transition: 0.3s all ease-in;
+}
 .dash-am-list{
     width: 100%;
     height: 120px;
